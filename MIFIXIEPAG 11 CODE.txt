@@ -1,0 +1,185 @@
+<html>
+<head>
+<title>FIXIE STREET RICARDIUM DALE WAX</title>
+<style>
+h{
+font-size: 40px;
+font-family: monospace;
+
+}
+
+p{
+text-align: justify;
+line-height: 30px;
+font-size: 22px;
+font-family: sans-serif;
+}
+
+p1{
+
+font-size: 20px;
+text-align: justify;
+line-height: 25px;
+font-family: sans-serif;
+}
+
+div {
+height: 20px; 
+width: 35%;
+background-color: grey;
+}
+
+.size-image1 {
+width: 300px;
+}
+
+.size-image2 {
+width: 325px;
+}
+
+.size-image3 {
+width: 300px;
+
+}
+
+.size-image4 {
+width: 320px;
+}
+
+.size-image5 {
+width: 308px;
+}
+
+.size-image6{
+width: 300px;
+}
+
+.cajablanca {
+background-color: white;
+margin:30px;
+}
+.cajamediana {
+background-color: red;
+margin:60px;
+}
+
+#bordenegrita {
+border-width: 10px;
+border-style: solid;
+border-color: grey;
+}
+
+
+#marcoimg {
+border-widht: 5px;
+border-style: solid;
+border-color: grey;
+}
+
+#rainbow {
+  animation-name: colorful;
+  animation-duration: 3s; 
+ animation-iteration-count: infinite;
+}
+
+@keyframes colorful {
+  0% {
+    background-color: black;
+}
+  50% {
+    background-color: grey;
+}
+  75% { 
+   background-color: black;
+}
+  100% {
+    background-color: grey;
+  }
+}
+
+
+</style>
+
+
+</head>
+
+<body bgcolor="black" text="white" >
+<h id="bordenegrita">BIENVENIDXS:</h>
+<main>
+<br><br><br>
+<div id="rainbow"> </div>
+<br><br><br>
+
+<p1>Esto es un sitio web para  <br>
+informar y promover el uso de <br>
+este y otros estilos de bicicleta  <br>
+entendiendo que es un deporte que  <br>
+reune características aptas para la<br>
+vida en ciudad y compatible con las  <br>
+actividades de hoy en dia. Sin duda <br>
+queda mucho por delante que se respete<br>
+el lugar que ocupa la bicicleta en el <br>
+transporte y en la cultura, aqui acercamos<br>
+un poco de este mundo.</p1> 
+<br><br>
+
+
+
+<a href"#"><img id="marcoimg" class="size-image5" src=https://www.santafixie.com/blog/wp-content/uploads/2021/01/frame-290-LA-jet-black-gloss-inf1-min-385x250.jpg></a>
+
+<a href"#"><img id="marcoimg" class="size-image6" src=https://cdn.brujulabike.com/media/3328/conversions/competicion-1000.jpg></a>
+
+
+<br><br>
+<form>
+<fieldset>
+<p>Estilo preferido:</p> 
+
+<input required type ="text" placeholder="Ej: BMX">
+<button type="sumbit">Ok dale </button>
+</fieldset>
+</form>
+
+<br><br><br>
+<div id="rainbow"> </div>
+<br><br><br>
+
+<p1> Hoy hablaremos sobre un sistema de rodamiento <br>
+bastante antiguo, que se utiliza oficialmente para las  <br>
+carreras de las olimpíadas, dentro de un velódromo<br>
+y que hace mas de 50 años, aficionados se atrevieron  <br>
+a llevarlo a la calle. Se trata de bicicletas, con piñon fijo <br>
+y sin frenos. </p1> 
+
+<br><br>
+<p>¿Tenías este dato?</p> 
+<input type ="text" placeholder="Si/No">.
+<br><br>
+<p>
+Presiona
+<a href="https://listado.mercadolibre.com.uy/bicicletas#D[A:bicicletas]" target="_blank">aquí</a> para encontrar ya tu bici favorita!
+</p>
+
+
+<br><br>
+<p>Si queres encontrar tu bicicleta ideal te ayudamos a buscarla!
+</p> 
+<br><br><br>
+
+
+<a href"#"><img id="marcoimg" class="size-image1" src="https://image.shutterstock.com/image-photo/fixie-bike-full-black-custom-260nw-1693693759.jpg"></a>
+<a href"#"><img id="marcoimg"" class="size-image2" src="https://truesurfing.es/blog/wp-content/uploads/2016/03/Bici-Fixie.jpg" ></a>
+<br>
+<a href"#"><img id="marcoimg" class="size-image3" src="https://labicikleta.com/wp-content/uploads/2019/04/C%C3%B3moAndarEnFixie_KHS_Fixie-1024x680.jpg"></a>
+<a href"#"><img id="marcoimg" class="size-image4" src="https://bike-gourmet.com/wp-content/uploads/2019/03/bicicleta-pista-duratec-magnetic-t9_azul-1.jpg"></a>
+</main>
+<br><br><br>
+<br><br><br>
+<div id="rainbow"> </div>
+<br><br><br>
+
+<p2>*Todos los derechos reservados* // Para contactarte con nosotros podes hacerlo a traves de <a href="https://www.facebook.com/search/top/?q=fixie" target="_blank">Nuestro Facebook</a>
+o a nuestro Whatsapp (+59894756354); número de Uruguay.</p2>
+</body>
+
+</html>
